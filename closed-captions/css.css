@@ -1,3 +1,18 @@
+body {
+background-color: black;
+}
+
+.content {
+width: 70%;
+margin-left: 15%;
+margin-right: 15%;
+text-align: center;
+	}
+
+#video-placeholder {
+	width: 100%;
+}
+
 /* **********************************************
 Basic mechanics
 Hide all paragraphs by default
@@ -19,28 +34,32 @@ Feel free to adjust the defaults to your needs.
 }
 .voice1 {
 	color: #39ff14;
-	background: black;
 	padding: 10px;
 	font-family: "brenner mono";
 }
 
 .voice2 {
-	color: #000;
+	color: white;
 	font-family: "brenner sans";
 	padding: 10px;
-	font-size: 1.2em;
+	font-size: 1.2em
+}
 
+.voice3 {
+		color: white;
 
 }
 
 .voice4 {
 	font-family: "brenner sans";
 	font-weight: 300;
+	color: white;
 }
 
 .uppercase {
 	text-transform: uppercase;
 	font-weight: bold
+	color: white;
 }
 
 .dark {
