@@ -91,79 +91,65 @@ You probably want to change the styling.
 
 .p0 span {
   opacity: 0;
-  font-family: brenner;
 }
 
 .p0.on span:first-of-type {
   opacity: 1;
   transition: 0s;
-  font-weight: 200;
 }
 
 .p0.on span:nth-of-type(2) {
   opacity: 1;
   transition: 0s .4s;
   margin-right: -.25em;
-  font-weight: 400;
 }
 
 .p0.on span:nth-of-type(3) {
   opacity: 1;
   transition: 0s .5s;
   margin-right: -.25em;
-  font-weight: 600;
 }
 
 .p0.on span:nth-of-type(4) {
   opacity: 1;
   transition: 0s .7s;
-  margin-right: -.25em;
-  font-weight: 800;
 }
 
 .p0.on span:nth-of-type(5) {
   opacity: 1;
   transition: 0s 1.1s;
   margin-right: -.25em;
-  font-family: "brenner sans";
 }
 
 .p0.on span:nth-of-type(6) {
   opacity: 1;
   transition: 0s 1.4s;
   margin-right: -.25em;
-  font-family: "brenner display";
 }
 
 .p0.on span:nth-of-type(7) {
   opacity: 1;
   transition: 0s 1.7s;
-  margin-right: -.25em;
-  font-family: "brenner script";
 }
 
 .p0.on span:nth-of-type(8) {
   opacity: 1;
   transition: 0s 2s;
-  font-family: "brenner script";
 }
 
 .p0.on span:nth-of-type(9) {
   opacity: 1;
   transition: 0s 3s;
-  font-family: "brenner Sans condensed";
 }
 
 .p0.on span:nth-of-type(10) {
   opacity: 1;
   transition: 0s 3.2s;
-  font-family: "brenner mono";
 }
 
 .p0.on span:nth-of-type(11) {
   opacity: 1;
   transition: 0s 3.7s;
-  font-family: "brenner slab";
 }
 
 .echo {
@@ -216,9 +202,11 @@ You probably want to change the styling.
 }
 
 .sound1 {
-  animation-duration: 1s;
-  animation-name: siren;
-  animation-timing-function: ease-in;
+	animation: 1s siren ease-in;
+}
+
+.sound1 iframe {
+	animation: 1s siren-frame ease-in;
 }
 
 @keyframes siren {
@@ -228,6 +216,7 @@ You probably want to change the styling.
 
   25% {
     background-color: red;
+		opacity: 0.6;
     filter: blur(1px);
   }
 
@@ -236,10 +225,23 @@ You probably want to change the styling.
   }
 }
 
+@keyframes siren-frame {
+0% {
+}
+
+25% {
+	transform: scale(1.5);
+}
+
+
+}
+
 .sound2 {
-  animation-duration: 1s;
-  animation-name: police-siren;
-  animation-timing-function: ease-in;
+	animation: 1s police-siren ease-in;
+}
+
+.sound2 iframe {
+	animation: 1s police-frame ease-in;
 }
 
 @keyframes police-siren {
@@ -258,6 +260,20 @@ You probably want to change the styling.
   100% {
     background-color: black;
   }
+}
+
+@keyframes police-frame {
+  0% {
+  }
+
+  1% {
+    transform: rotate(10deg);
+  }
+
+  50% {
+	transform: rotate(-10deg);  }
+
+
 }
 
 .sound3 #laser {
