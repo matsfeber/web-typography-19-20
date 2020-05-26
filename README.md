@@ -36,3 +36,12 @@ In de 2e feedback ronde had ik bijna voor alle geluiden een animatie toegevoegd.
 
 **After**
 ![After foto](/images/animatie-2.png)
+
+Na deze feedbackronde heb ik nog enkele animaties aangepast en heb ik nog een visual voor een muzieknummer op het einde toegevoegd.
+
+# Eindresultaat
+
+Het eindresultaat is hier te bekijken:
+https://matsfeber.github.io/web-typography-19-20/closed-captions/index.html
+
+
