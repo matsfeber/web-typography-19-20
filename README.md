@@ -26,4 +26,13 @@ De 3e spreker is een schreeuwende man, vandaar dat ik voor de kleur rood heb gek
 # Feedback ronde 1
 In de eerste feedbackronde had ik nog geen animaties of visuals, dus heb ik niet heel veel feedback gekregen. Een punt waar Darice mee kwam was dat het onduidelijk was wie er spreekt. De vormgeving van de letters vond ze goed maar ze wilde graag ook een naam voor de tekst hebben staan.
 
+![Stem-4](/images/voice4.png)
+
 # Feedback ronde 2
+In de 2e feedback ronde had ik bijna voor alle geluiden een animatie toegevoegd. De belangrijkste feedback die ik heb gekregen is dat de tekst niet bij elke animatie leesbaar was, en zoals je hierboven kan lezen is leesbaarheid voor Darice het belangrijkst. En dat Darice het fijn vindt om een beschrijving van het geluid te krijgen als extra ondersteuning 
+
+**Before**
+![Before foto](/images/animatie-1.png)
+
+**After**
+![After foto](/images/animatie-2.png)
