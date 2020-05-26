@@ -39,6 +39,30 @@ In de 2e feedback ronde had ik bijna voor alle geluiden een animatie toegevoegd.
 
 Na deze feedbackronde heb ik nog enkele animaties aangepast en heb ik nog een visual voor een muzieknummer op het einde toegevoegd.
 
+# Exlusive Design Principles
+Je kunt de Exlusive Design Principles hier vinden: https://vasilis.nl/nerd/exclusive-design-principles/
+
+#### Provide a unique experience
+Ik heb een unieke ervaring gemaakt doordat ik voor 1 situatie heb ontworpen. Ik heb alleen met de behoeftes van Darice rekening gehouden.
+
+#### Ignore situation 
+Ik heb door vragen te stellen aan Darice en feedback te verwerken mijn product voor haar, en dus maar 1 persoon, geoptimaliseerd.
+
+#### Be inconsistent/innovative
+Het innovatieve zit eigenlijk al in de opdracht zelf omdat we een product ontwikkelen voor een ervaring die ontbreekt. Hierdoor ontwerpen we buiten de standaard patterns.
+
+#### Take control
+Ik weet dat Darice het op een goede laptop bekijkt en daarom heb ik alleen voor een grote viewport ontworpen en gebruik gemaakt van alle mogelijkheden die deze viewport bied voor CSS animaties.
+
+#### Offer the best possible solution
+Ik heb de feedback van Darice altijd verwerkt en rekening gehouden met haar behoeftes om haar zo een "perfecte" oplossing te bieden.
+
+#### Prioritise identity
+Ik heb rekening gehouden met Darice identiteit, ze houdt van minimalistisch en dit heb ik meegenomen in mijn oplossing.
+
+#### Add nonsense
+Lasers.
+
 # Eindresultaat
 
 Het eindresultaat is hier te bekijken:
