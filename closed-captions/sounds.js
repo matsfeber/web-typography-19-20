@@ -11,5 +11,13 @@ sounds = [
 	31,
 	32,
 	34,
-	86
+	86,
+	103,
+	130,
+	136
 ];
+
+
+
+var vid = document.getElementById("myVideo");
+vid.playbackRate = 0.2;
