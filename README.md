@@ -11,9 +11,19 @@ Om dit te realiseren heb ik samen gewerkt met Darice de Cuba, een Front-end deve
 # Lettertypes
 Ik ben begonnen met het kiezen van passende lettertypes bij de sprekende personen. Ik wilde ervoor zorgen dat de lettertypes paste bij de emotie in de stem en de spreker.
 
+De 1e spreker is een robot achtige stem, vandaar dat ik voor een blokkerig lettertype heb gekozen. De combinatie van neongroene letters op een zwarte achtergrond wordt in films gebruikt bij bijvoorbeeld hacken en veel mensen denken bij deze tekst aan computers.
 
+![Stem-1](/images/voice1.png)
 
+De 2e spreker, Constant-K, is een rustig sprekende man. Vandaar dat ik voor een lettertype zonder schreven heb gekozen, dit wordt vaak als rustig ervaren. Ook heb ik het lettertype dunner gemaakt en een witte kleur gegeven.
+
+![Stem-2](/images/voice2.png)
+
+De 3e spreker is een schreeuwende man, vandaar dat ik voor de kleur rood heb gekozen omdat deze kleur vaak geassocieerd wordt met agressie. Ik heb de tekst ook dikker gemaakt om aan te geven dat er geschreeuwt wordt.
+
+![Stem-3](/images/voice3.png)
 
 # Feedback ronde 1
+In de eerste feedbackronde had ik nog geen animaties of visuals, dus heb ik niet heel veel feedback gekregen. Een punt waar Darice mee kwam was dat het onduidelijk was wie er spreekt. De vormgeving van de letters vond ze goed maar ze wilde graag ook een naam voor de tekst hebben staan.
 
 # Feedback ronde 2
